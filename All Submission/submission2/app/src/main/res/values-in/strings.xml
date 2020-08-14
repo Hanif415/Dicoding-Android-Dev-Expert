@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Detail</string>
+
+    <string name="title_movies">Film</string>
+    <string name="title_tvshows">Tayangan Tv</string>
+
+    <string name="movies">Film</string>
+    <string name="tv_shows">Tayangan Tv</string>
+
+    <string name="judul_film">Judul Film</string>
+    <string name="rating">10 / 10</string>
+
+    <string name="judul_tvshow">judul tv show</string>
+    <string name="rating_tshow">10/10</string>
+
+    <string name="setting_name">Ganti pengaturan bahasa</string>
+
+
+    <string-array name="data_judul">
+        <item>A Start Is Born</item>
+        <item>Alita</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Cold Pursuit</item>
+        <item>Creed</item>
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Avengers: Infinity War</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karir Allys lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang secara terus-menerus dengan iblis internalnya sendiri.</item>
+        <item>Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa. masa lalu. </item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Arthur Curry, lelaki setengah manusia Orms, setengah lelaki Atlantis dan pewaris sejati takhta. </item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercurys yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya. Nels memulai perburuan dendam untuk Viking, raja obat bius yang dimilikinya yang bertanggung jawab atas pembunuhan itu, menghilangkan rekan Viking satu per satu. Saat Nels semakin dekat dengan Viking, tindakannya membawa konsekuensi yang lebih tak terduga dan kejam, karena ia membuktikan bahwa balas dendam adalah semua dalam eksekusi. </item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+        <item>Gellert Grindelwald telah lolos dari penjara dan mulai mengumpulkan pengikut untuk tujuan-nya - meninggikan penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis ditarik saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah. </item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless dari pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Saat bahaya memuncak di rumah dan Cegukan berkuasa saat kepala desa diuji, baik naga maupun pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka. </item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+    </string-array>
+
+    <string-array name="data_poster">
+        <item>@drawable/poster_a_start_is_born</item>
+        <item>@drawable/poster_alita</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_cold_persuit</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_crimes</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_how_to_train</item>
+        <item>@drawable/poster_infinity_war</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>7.5/10</item>
+        <item>6.8/10</item>
+        <item>6.8/10</item>
+        <item>8.1/10</item>
+        <item>5.4/10</item>
+        <item>6.7/10</item>
+        <item>6.9/10</item>
+        <item>6.5/10</item>
+        <item>7.7/10</item>
+        <item>8.3/10</item>
+    </string-array>
+
+
+
+    <!-- TV SHOWS -->
+
+    <string-array name="data_judul2">
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>DragonBall</item>
+        <item>Fairytail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Lambs of God</item>
+        <item>Gotham</item>
+        <item>Grey Anatomy</item>
+        <item>Hanna</item>
+    </string-array>
+
+    <string-array name="data_sinopsis2">
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur. </item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan. </item>
+        <item>Dahulu kala di pegunungan, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang bocah aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk bola naga membawanya ke rumah Gokus. Bersama-sama, mereka berangkat untuk menemukan ketujuh bola naga dalam sebuah petualangan. </item>
+        <item>Lucy adalah seorang gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan anak biasa, dia anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail. </item>
+        <item>Seri animasi animasi Freakin Sweet yang sakit, terpelintir, tidak benar, menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang cerdas tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film) ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia membuat Stewie tetap mengontrol sementara menyeruput Martinis dan memilah-milah masalah hidupnya sendiri.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya manusia meta yang diciptakan setelah ledakan akselerator dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi itu tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen The Flash. </item>
+        <item>A dark, gothic tale about three nuns, each a generation apart, living in an isolated convent by the coast, and an unwelcome visitor who enters their lives and changes their world forever.</item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordons dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker? </item>
+        <item>Ikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial di Seattle. </item>
+        <item>Drama yang menegangkan dan menjadi dewasa ini mengikuti perjalanan seorang gadis muda yang luar biasa ketika ia menghindari pengejaran tanpa henti dari seorang agen CIA yang tidak ada buku dan mencoba untuk menggali kebenaran di balik siapa dirinya. Berdasarkan film Joe Wright 2011. </item>
+    </string-array>
+
+    <string-array name="data_poster2">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_grey_anatomy</item>
+        <item>@drawable/poster_hanna</item>
+    </string-array>
+
+    <string-array name="data_rating2">
+        <item>5.8/10</item>
+        <item>6.4/10</item>
+        <item>7/10</item>
+        <item>6.4/10</item>
+        <item>6.5/10</item>
+        <item>6.7/10</item>
+        <item>6/10</item>
+        <item>6.9/10</item>
+        <item>6.3/10</item>
+        <item>6.7/10</item>
+    </string-array>
+
+</resources>

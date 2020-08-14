@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_tvshow">Tayangan TV</string>
+    <string name="title_movie">Film</string>
+    <string name="title_favorite">Favorit</string>XZa
+    <string name="description_text">Ini adalah Deskripsi</string>
+    <string name="txt_overview">Deskripsi</string>
+    <string name="txt_change_lenguage">Ganti Bahasa</string>
+    <string name="date_release">00-00-0000</string>
+    <string name="rate">0.0</string>
+    <string name="overview_text">Deskripsi</string>
+    <string name="notification_add">Ditambahkan Ke Favorit</string>
+    <string name="notification_del">Dihapus Dari Favorit</string>
+    <string name="notification_data_exist">Sudah ada</string>
+    <string name="movie_detail_title">Detail Film</string>
+    <string name="tv_detail_title">Detail Tayangan Tv</string>
+    <string name="dialog_delete_message">Apakah anda ingin menghapus data ini dari favorite</string>
+    <string name="dialog_delete_title">HAPUS</string>
+    <string name="dialog_add_title">TAMBAH</string>
+    <string name="dialog_add_message">Apakah anda ingin menambahkan data ini ke favorite</string>
+
+    <string name="item_title_movie_search">Cari Film</string>
+    <string name="item_title_tvshow_search">Cari Tayangan TV</string>
+    <string name="search">Cari</string>
+
+    <string name="appwidget_text">WIDGET</string>
+    <string name="add_widget">Tambahkan widget</string>
+    <string name="appwidget_textt">Favorit Film</string>
+    <string name="empty_text">Data Kosong</string>
+
+    <string name="text_settings">Pengaturan</string>
+
+    <string name="key_daily_reminder">Pengingat Harian</string>
+    <string name="daily_reminder_title">Notifikasi Pengingat Harian</string>
+    <string name="daily_reminder_summary">Notifikasi ini akan muncul jam 7 pagi</string>
+    <string name="key_now_release_reminder">Pengingat Segera Tayang</string>
+    <string name="now_release_reminder_title">Notifikasi Pengingat Rilis Film</string>
+    <string name="now_release_reminder_summary">Notifikasi ini akan muncul jam 8 pagi</string>
+
+    <string name="key_language">Bahasa</string>
+    <string name="language_title">Bahasa</string>
+    <string name="language_summary">Ubah Bahasa</string>
+
+    <string name="notification_text">Notifikasi</string>
+    <string name="notification_alarm_daily_reminder">Selamat pagi! Sudah Melihat film pilihan mu?</string>
+
+    <string name="activated">Is Activated</string>
+    <string name="not_activated">Not Activated</string>
+
+    <string name="label_description">Telah Rilis Hari Ini</string>
+
+    <string name="label_switch_on">Pengingat Aktif</string>
+    <string name="label_switch_off">Pengingat Tidak Aktif</string>
+</resources>

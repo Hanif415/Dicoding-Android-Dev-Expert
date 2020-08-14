@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/favouritemovie/favouritemovie.iml" filepath="$PROJECT_DIR$/favouritemovie/favouritemovie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/made-submission-5-master.iml" filepath="$PROJECT_DIR$/made-submission-5-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/made-submission-5-master-app.iml" filepath="$PROJECT_DIR$/app/made-submission-5-master-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/favouritemovie/made-submission-5-master-favouritemovie.iml" filepath="$PROJECT_DIR$/favouritemovie/made-submission-5-master-favouritemovie.iml" />
+    </modules>
+  </component>
+</project>

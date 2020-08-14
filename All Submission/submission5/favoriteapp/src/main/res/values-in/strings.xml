@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Favorite Film</string>
+    <string name="title_tvshow">Tayangan Tv</string>
+    <string name="title_movie">Film</string>
+    <string name="title_favorite">Favorit</string>XZa
+    <string name="description_text">Ini adalah Deskripsi</string>
+    <string name="txt_overview">Deskripsi</string>
+    <string name="txt_change_lenguage">Ganti Bahasa</string>
+    <string name="date_release">00-00-0000</string>
+    <string name="rate">0.0</string>
+    <string name="overview_text">Deskripsi</string>
+    <string name="notification_add">Ditambahkan Ke Favorit</string>
+    <string name="notification_del">Dihapus Dari Favorit</string>
+    <string name="notification_data_exist">Sudah ada</string>
+    <string name="movie_detail_title">Detail Film</string>
+    <string name="tv_detail_title">Detail Tayangan Tv</string>
+    <string name="dialog_delete_message">Apakah anda ingin menghapus data ini dari favorite</string>
+    <string name="dialog_delete_title">HAPUS</string>
+    <string name="dialog_add_title">TAMBAH</string>
+    <string name="dialog_add_message">Apakah anda ingin menambahkan data ini ke favorite</string>
+</resources>

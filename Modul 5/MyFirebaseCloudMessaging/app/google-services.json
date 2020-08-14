@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "749976928021",
+    "firebase_url": "https://myfirebasecloudmessaging-7ac50.firebaseio.com",
+    "project_id": "myfirebasecloudmessaging-7ac50",
+    "storage_bucket": "myfirebasecloudmessaging-7ac50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749976928021:android:455df4961ad34607c3331c",
+        "android_client_info": {
+          "package_name": "como.sekolah.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749976928021-2kp73flpocqtgtc1hkp333ce1n9lrpg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "como.sekolah.myfirebasecloudmessaging",
+            "certificate_hash": "d39fe1712fb7fa8b4c5f8d8485c17816d5cf4ceb"
+          }
+        },
+        {
+          "client_id": "749976928021-n62ast346j0fmeohq071mk0uo5e9soam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Wu-hn2BfAj-MeiMKaPoXAJ9UpynPzng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749976928021-n62ast346j0fmeohq071mk0uo5e9soam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

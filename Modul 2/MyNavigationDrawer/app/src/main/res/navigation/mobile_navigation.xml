@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="como.sekolah.mynavigationdrawer.ui.home.HomeFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_home1" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="como.sekolah.mynavigationdrawer.ui.gallery.GalleryFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="como.sekolah.mynavigationdrawer.ui.slideshow.SlideshowFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_tools"
+        android:name="como.sekolah.mynavigationdrawer.ui.tools.ToolsFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_tools" />
+
+    <fragment
+        android:id="@+id/nav_share"
+        android:name="como.sekolah.mynavigationdrawer.ui.share.ShareFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_share" />
+
+    <fragment
+        android:id="@+id/nav_send"
+        android:name="como.sekolah.mynavigationdrawer.ui.send.SendFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_send" />
+</navigation>

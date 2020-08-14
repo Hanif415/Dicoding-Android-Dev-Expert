@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Favorite Movie</string>
+    <string name="title_tvshow">Tv Show</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="description_text">This is Overview</string>
+    <string name="txt_overview">Overview</string>
+    <string name="txt_change_lenguage">Change Lenguage</string>
+    <string name="date_release">00-00-0000</string>
+    <string name="rate">0.0</string>
+    <string name="overview_text">Overview</string>
+    <string name="notification_add">Add To Favorite</string>
+    <string name="notification_del">Delete From Favorite</string>
+    <string name="notification_data_exist">is exists</string>
+    <string name="movie_detail_title">Movie Detail</string>
+    <string name="tv_detail_title">Tv Show Detail</string>
+    <string name="dialog_delete_message">Do you want to delete this data from favorites</string>
+    <string name="dialog_delete_title">DELETE</string>
+    <string name="dialog_add_title">ADD</string>
+    <string name="dialog_add_message">Do you want to add this data to favorites</string>
+</resources>

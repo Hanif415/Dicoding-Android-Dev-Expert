@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Catalogue-Movie-Ui-Ux-master.iml" filepath="$PROJECT_DIR$/Catalogue-Movie-Ui-Ux-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master.iml" filepath="$PROJECT_DIR$/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master-app.iml" filepath="$PROJECT_DIR$/app/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/favoritemovies/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master-favoritemovies.iml" filepath="$PROJECT_DIR$/favoritemovies/Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master-favoritemovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/Catalogue-Movie-Ui-Ux-master-app.iml" filepath="$PROJECT_DIR$/app/Catalogue-Movie-Ui-Ux-master-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/favoritemovies/Catalogue-Movie-Ui-Ux-master-favoritemovies.iml" filepath="$PROJECT_DIR$/favoritemovies/Catalogue-Movie-Ui-Ux-master-favoritemovies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contekan-Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master.iml" filepath="$PROJECT_DIR$/Contekan-Catalogue-Movie-Ui-Ux-master-Catalogue-Movie-Ui-Ux-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/favoritemovies/favoritemovies.iml" filepath="$PROJECT_DIR$/favoritemovies/favoritemovies.iml" />
+    </modules>
+  </component>
+</project>

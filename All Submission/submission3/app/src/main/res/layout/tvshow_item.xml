@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin">
+
+    <ImageView
+        android:id="@+id/img_tvshow_poster"
+        android:layout_width="87dp"
+        android:layout_height="130dp"
+        android:background="@android:color/darker_gray"
+        android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:id="@+id/tv_tvshow_judul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_movie"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@id/img_tvshow_poster"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/tv_tvshow_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/description_text"
+        android:layout_toRightOf="@+id/img_tvshow_poster"
+        android:layout_below="@+id/tv_tvshow_judul"
+        android:layout_marginLeft="8dp"
+        android:maxLines="2"
+        android:ellipsize="end"/>
+
+</RelativeLayout>
